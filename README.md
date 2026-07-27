@@ -9,7 +9,8 @@ An aspiring **Quantitative Financial Analyst** with a strong passion for bridgin
 -  Deeply interested in **Quantitative Finance**, **Algorithmic Trading**, and data-driven investment strategies.
 -  Dedicated to mastering the mathematical and statistical foundations required to analyze and predict financial time-series.
 
-###  What I'm Currently Learning & Exploring 🎓
+###  What I'm Currently Learning & Exploring 
+  **My Goal to study**
 -  **Advanced Mathematics:** Stochastic Calculus, Partial Differential Equations (PDEs), Probability Theory, and Optimization.
 -  **Quant Strategies:** Principles of Mean Reversion, Deep Value strategies, and Mathematical Modeling for asset pricing.
 -  **Data Science & ML:** Application of advanced Machine Learning and Simulation techniques in financial data.
